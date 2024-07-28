@@ -63,6 +63,7 @@ nav h5 {
   color: #F9FAF8 ;
   background-color:#3882F6 ;
   width: 10rem;
+  cursor: pointer;
 }
 
 .hero .right {
@@ -161,6 +162,8 @@ nav h5 {
   border: 2px solid white;
   border-radius: 8px;
   background-color: transparent;
+
+  cursor: pointer;
 }
 
 footer {
